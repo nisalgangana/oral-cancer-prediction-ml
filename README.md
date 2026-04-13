@@ -31,11 +31,14 @@ This project applies two supervised machine learning algorithms to predict oral 
 ---
 
 ## Repository Structure
+
+```
 oral-cancer-prediction-ml/
 ├── nisal_random_forest.ipynb                    # Nisal — Random Forest
 ├── sanduni_logistic_regression.ipynb            # Sanduni — Logistic Regression
 ├── oral_cancer_prediction_dataset.csv           # Dataset
 └── README.md
+```
 
 ---
 
